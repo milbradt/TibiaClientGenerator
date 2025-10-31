@@ -1,1 +1,0 @@
-MyTibiaClient is open-source custom Tibia Client generator website made in spare time by Mad Mage.
